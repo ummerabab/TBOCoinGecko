@@ -1,7 +1,7 @@
 
-TBOCoinGecko
+# TBOCoinGecko
 
-TBOCoinGecko is a simple iOS application that integrates with the CoinGecko API to display historical price data for cryptocurrencies.
+TBOCoinGecko is a simple iOS application that integrates with the CoinGecko API https://www.coingecko.com/ to display historical price data for cryptocurrencies.
 
 ✅ Current Features
 
